@@ -2,7 +2,7 @@
 
 #' plot_something
 #'
-#' Giving a try with gglot
+#' Giving a try with ggplot2
 #'
 #' @return a plot
 #' @export
