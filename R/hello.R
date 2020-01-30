@@ -17,7 +17,9 @@
 #' }
 
 hello <- function(message="") {
-    print(sprintf("Hello, %s, world!",message))
+  tmp <- sprintf("Hello, %s, world!",message)
+  print(tmp)
+  return(tmp)
 }
 
 

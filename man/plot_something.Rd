@@ -10,5 +10,5 @@ plot_something()
 a plot
 }
 \description{
-Giving a try with gglot
+Giving a try with ggplot2
 }
